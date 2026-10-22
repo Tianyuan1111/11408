@@ -1,0 +1,25 @@
+[
+ {
+  "page_idx": 194,
+  "block_idx": 16,
+  "block_type": "table",
+  "bbox": [
+   0.393,
+   0.749,
+   0.78,
+   0.78
+  ],
+  "json_path": "content.0.content",
+  "uri_len": 39476,
+  "payload_len": 39453,
+  "payload_mod4": 1,
+  "has_ws": false,
+  "bad_chars": [
+   "<",
+   ">"
+  ],
+  "head": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAIBAQEBAQIBAQECAgICAgQDA",
+  "tail": "6OaKKADao7Cjap/hFFFABsTptFHlp/dFFFAB5af3RQEUHIWiigBaKKKAP//Z",
+  "host_str_len": 39623
+ }
+]

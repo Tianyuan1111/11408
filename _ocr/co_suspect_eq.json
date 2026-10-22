@@ -1,0 +1,227 @@
+[
+ {
+  "page": 22,
+  "block": 13,
+  "type": "equation",
+  "bbox": [
+   0.153,
+   0.558,
+   0.851,
+   0.598
+  ],
+  "cjk": 34,
+  "len": 146,
+  "has_marker": false,
+  "text": "源程序  (\\text{. c}) \\xrightarrow{\\quad  C  编译器  \\quad}  汇编语言源程序  \\xrightarrow{\\quad  正编程序  \\quad}  可重定位目标文件  \\xrightarrow{\\quad  链接程序  \\quad}  可执行文件"
+ },
+ {
+  "page": 24,
+  "block": 4,
+  "type": "equation",
+  "bbox": [
+   0.154,
+   0.147,
+   0.691,
+   0.162
+  ],
+  "cjk": 14,
+  "len": 114,
+  "has_marker": false,
+  "text": "【基西面题】卜  $\\mathsf { C P U }$  执行时间的相关计算  $( 2 0 1 2  、  2 0 1 3  、  2 0 1 4  、  2 0 1 7  、  2 0 2 2  、  2 0 2 3 )$"
+ },
+ {
+  "page": 24,
+  "block": 5,
+  "type": "equation",
+  "bbox": [
+   0.265,
+   0.169,
+   0.787,
+   0.186
+  ],
+  "cjk": 17,
+  "len": 54,
+  "has_marker": false,
+  "text": "CPU执行时间  =  CPU时钟周期数/主频  = (指令条数 \\times  CPI) \\div  主频"
+ },
+ {
+  "page": 24,
+  "block": 12,
+  "type": "equation",
+  "bbox": [
+   0.256,
+   0.408,
+   0.796,
+   0.424
+  ],
+  "cjk": 14,
+  "len": 55,
+  "has_marker": false,
+  "text": "程序P在M2上的时钟周期数 \\div CPU 执行时间 =3\\times10^{10}\\div6s=5 GHz"
+ },
+ {
+  "page": 24,
+  "block": 16,
+  "type": "equation",
+  "bbox": [
+   0.261,
+   0.495,
+   0.741,
+   0.512
+  ],
+  "cjk": 10,
+  "len": 77,
+  "has_marker": false,
+  "text": "MIPS =  指令条数  \\div ( CPU执行时间  \\times 10^6 ) =  主频  \\div ( CPI  \\times 10^6 )。"
+ },
+ {
+  "page": 33,
+  "block": 17,
+  "type": "equation",
+  "bbox": [
+   0.282,
+   0.657,
+   0.701,
+   0.71
+  ],
+  "cjk": 15,
+  "len": 497,
+  "has_marker": false,
+  "text": "\\begin{array}{l} 高位补  0 ,  凑足  3  位  \\quad  分界点  \\quad  低位补  0 ,  凑足  3  位  \\\\\\quad \\downarrow \\quad \\downarrow \\quad \\downarrow \\quad \\downarrow \\\\\\quad \\under"
+ },
+ {
+  "page": 33,
+  "block": 19,
+  "type": "equation",
+  "bbox": [
+   0.291,
+   0.732,
+   0.692,
+   0.783
+  ],
+  "cjk": 15,
+  "len": 3100,
+  "has_marker": false,
+  "text": "\\begin{array}{l} 高位补    0 ,   凑足    4    位  \\quad  分界点  \\quad  低位补    0 ,   凑足    4    位  \\\\\\quad \\downarrow \\quad \\downarrow \\quad \\downarrow \\quad \\downarrow "
+ },
+ {
+  "page": 35,
+  "block": 13,
+  "type": "equation",
+  "bbox": [
+   0.218,
+   0.471,
+   0.756,
+   0.516
+  ],
+  "cjk": 7,
+  "len": 199,
+  "has_marker": false,
+  "text": "\\left[ x \\right]_{原} = \\left\\{ \\begin{aligned} & 0,x, & 0 \\leqslant x < 2^{n} \\\\ & 2^{n} - x = 2^{n} + \\left| x \\right|, & - 2^{n} < x \\leqslant 0 \\end{aligned}"
+ },
+ {
+  "page": 47,
+  "block": 19,
+  "type": "equation",
+  "bbox": [
+   0.355,
+   0.827,
+   0.635,
+   0.866
+  ],
+  "cjk": 6,
+  "len": 206,
+  "has_marker": false,
+  "text": "\\begin{aligned} &\\left[A+B\\right]_{补}=\\left[A\\right]_{补}+\\left[B\\right]_{补}\\left(\\bmod 2^{n+1}\\right)\\\\ &\\left[A-B\\right]_{补}=\\left[A\\right]_{补}+\\left[-B\\right]"
+ },
+ {
+  "page": 71,
+  "block": 14,
+  "type": "equation",
+  "bbox": [
+   0.137,
+   0.634,
+   0.583,
+   0.649
+  ],
+  "cjk": 13,
+  "len": 55,
+  "has_marker": false,
+  "text": "通高面瓣卜  \\gg  数据的大小端存储 (2016 、 2018 、 2019 、 2024 、 2025)"
+ },
+ {
+  "page": 123,
+  "block": 28,
+  "type": "equation",
+  "bbox": [
+   0.309,
+   0.85,
+   0.673,
+   0.867
+  ],
+  "cjk": 9,
+  "len": 37,
+  "has_marker": false,
+  "text": "Cache   行号  =  主存块号   mod  CaCO   总行数"
+ },
+ {
+  "page": 240,
+  "block": 6,
+  "type": "equation",
+  "bbox": [
+   0.192,
+   0.278,
+   0.67,
+   0.325
+  ],
+  "cjk": 31,
+  "len": 298,
+  "has_marker": false,
+  "text": "\\begin{aligned}&\\textcircled{i}  \\texttt{PCout}, \\texttt{MRkin} \\quad & // 将指令的地址写入  \\texttt{MR} \\\\&\\textcircled{2}  \\texttt{Read} \\quad & // 读主存 , \\texttt{并将读出"
+ },
+ {
+  "page": 288,
+  "block": 13,
+  "type": "equation",
+  "bbox": [
+   0.354,
+   0.484,
+   0.663,
+   0.501
+  ],
+  "cjk": 14,
+  "len": 29,
+  "has_marker": false,
+  "text": "总线带宽  =  总线宽度  \\times  总线工作频率"
+ },
+ {
+  "page": 304,
+  "block": 21,
+  "type": "equation",
+  "bbox": [
+   0.327,
+   0.632,
+   0.673,
+   0.65
+  ],
+  "cjk": 9,
+  "len": 31,
+  "has_marker": false,
+  "text": "VRAM   容量  =  分辨率  \\times  色彩深度"
+ },
+ {
+  "page": 304,
+  "block": 22,
+  "type": "equation",
+  "bbox": [
+   0.303,
+   0.653,
+   0.711,
+   0.67
+  ],
+  "cjk": 13,
+  "len": 49,
+  "has_marker": false,
+  "text": "VRAM   带宽  =  分辨率  \\times  色彩深度 ( 位数 ) \\times  帧频"
+ }
+]

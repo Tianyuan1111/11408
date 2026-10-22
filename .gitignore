@@ -1,0 +1,23 @@
+# ── 大件：原书 PDF、OCR 原始产物、模型权重（体积过大，不进版本库）──
+408/*.pdf
+_ocr/*_full/
+_ocr/ds_full_x/
+_ocr/models/
+
+# ── OCR 中间产物与备份（可重新生成）──
+_ocr/work/
+_ocr/*_pre_extract/
+_ocr/*_before_redo/
+_ocr/*_after_extract/
+_ocr/*_verify/
+_ocr/*.pkl
+
+# ── Python ──
+.venv/
+__pycache__/
+*.py[cod]
+
+# ── 系统 / 编辑器 ──
+Thumbs.db
+desktop.ini
+.DS_Store

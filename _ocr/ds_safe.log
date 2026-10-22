@@ -1,0 +1,36 @@
+[12:49:07] 起始空闲内存 12942 MB，页面文件可用 22666 MB
+[12:49:07] 低内存配置: RENDER_THREADS=1, WINDOW_SIZE=32, RENDER_TIMEOUT=1800
+[12:49:07] 启动 mineru 服务 ...
+[12:49:25]   server start rc=0 服务已启动(PID 18428)。
+[12:49:59] 服务就绪（等待 30s，空闲 11676 MB）
+[12:49:59] 开始解析 数据结构 (404 页) ...
+[13:07:39] 解析结束 rc=1 用时 17.7 分钟
+[13:07:39] 全程最低空闲内存 7653 MB；结束时空闲 13349 MB
+[13:07:39] 产出 zip: 无
+[13:07:39] 解析日志尾部:
+OCR-rec Predict:  74%|███████▍  | 648/877 [00:04<00:02, 97.56it/s]
+OCR-rec Predict:  75%|███████▌  | 660/877 [00:05<00:02, 95.25it/s]
+OCR-rec Predict:  77%|███████▋  | 672/877 [00:05<00:02, 94.37it/s]
+OCR-rec Predict:  78%|███████▊  | 684/877 [00:05<00:02, 92.92it/s]
+OCR-rec Predict:  79%|███████▉  | 696/877 [00:05<00:02, 89.63it/s]
+OCR-rec Predict:  81%|████████  | 708/877 [00:05<00:01, 84.96it/s]
+OCR-rec Predict:  82%|████████▏ | 720/877 [00:05<00:01, 82.76it/s]
+OCR-rec Predict:  83%|████████▎ | 732/877 [00:05<00:01, 84.89it/s]
+OCR-rec Predict:  85%|████████▍ | 744/877 [00:06<00:01, 84.06it/s]
+OCR-rec Predict:  86%|████████▌ | 756/877 [00:06<00:01, 85.26it/s]
+OCR-rec Predict:  88%|████████▊ | 768/877 [00:06<00:01, 85.29it/s]
+OCR-rec Predict:  89%|████████▉ | 780/877 [00:06<00:01, 87.13it/s]
+OCR-rec Predict:  90%|█████████ | 792/877 [00:06<00:00, 86.04it/s]
+OCR-rec Predict:  92%|█████████▏| 804/877 [00:06<00:00, 85.08it/s]
+OCR-rec Predict:  93%|█████████▎| 816/877 [00:06<00:00, 86.51it/s]
+OCR-rec Predict:  94%|█████████▍| 828/877 [00:06<00:00, 87.47it/s]
+OCR-rec Predict:  96%|█████████▌| 840/877 [00:07<00:00, 85.83it/s]
+OCR-rec Predict:  97%|█████████▋| 852/877 [00:07<00:00, 83.99it/s]
+OCR-rec Predict:  99%|█████████▊| 864/877 [00:07<00:00, 80.23it/s]
+OCR-rec Predict: 100%|█████████▉| 876/877 [00:07<00:00, 80.14it/s]
+OCR-rec Predict: 100%|██████████| 877/877 [00:07<00:00, 115.11it/s]
+2026-09-30 13:07:12.418 | WARNING  | mineru.backend.analysis.pdf.normalization:_normalize_pdf_model_list:161 - PDF text block normalization: page_idx=139, bbox_fallback=0, dropped=1
+2026-09-30 13:07:13.070 | INFO     | mineru.backend.analyze:_log_infer_performance:26 - model_list infer finished, file_suffix=pdf, pages=404, cost=1013.559033s, speed=0.399 page/s
+错误: 解析 C:\Users\天元\Desktop\408\27王道《数据结构》高清带书签.pdf 失败: 
+Invalid image data URI
+
