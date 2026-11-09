@@ -1,7 +1,7 @@
 {
-  "C_Cpp_Runner.cCompilerPath": "E:/Visual Studio Build Tools/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/cl.exe",
-  "C_Cpp_Runner.cppCompilerPath": "g++",
-  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cCompilerPath": "E:/mingw64/bin/gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "E:/mingw64/bin/g++.exe",
+  "C_Cpp_Runner.debuggerPath": "E:/mingw64/bin/gdb.exe",
   "C_Cpp_Runner.cStandard": "",
   "C_Cpp_Runner.cppStandard": "",
   "C_Cpp_Runner.msvcBatchPath": "C:/Program Files/Microsoft Visual Studio/VR_NR/Community/VC/Auxiliary/Build/vcvarsall.bat",
